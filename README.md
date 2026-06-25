@@ -1,3 +1,3 @@
 # Assignment-using-Rust 
-This i smy firrst Repomy 
+This is my firrst Repomy 
 My name is Subhajit Dubey
